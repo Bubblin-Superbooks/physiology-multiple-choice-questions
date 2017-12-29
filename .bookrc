@@ -1,5 +1,5 @@
 {
-  "name": "physiology-multiple-choice-questions",
+  "name": "Multiple Choice Questions Physiology",
   "mode": {
     "HTML": "html",
     "CSS": "css",
@@ -13,5 +13,6 @@
       "JS": "js",
       "HEAD": "html"
     }
-  ]
+  ],
+  "book_id": 523
 }
